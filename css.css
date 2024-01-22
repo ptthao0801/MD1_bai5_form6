@@ -1,0 +1,15 @@
+td {
+    color: orange;
+}
+.a {
+    color: blue;
+}
+body {
+    font-family: Consolas;
+}
+button {
+    border-radius: 0%;
+    border-style: groove;
+    border-top-style: none;
+    border-left-style: none;
+}
